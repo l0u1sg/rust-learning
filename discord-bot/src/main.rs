@@ -1,3 +1,3 @@
+use discord::Discord;
 fn main() {
-    println!("Hello, world!");
 }
